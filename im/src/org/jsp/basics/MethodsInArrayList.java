@@ -1,4 +1,4 @@
-package org.jsp.basics;
+package org.jsp.link;
 
 public class MethodsInArrayList {
 
